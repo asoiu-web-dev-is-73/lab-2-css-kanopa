@@ -1,0 +1,21 @@
+body{
+	background: #C0C0C0;
+}
+caption{
+	caption-side: top;
+	padding: 30px;
+	font-size: 40px;
+	font-family: Monospace, Andele Mono;
+	color: white;
+    -webkit-text-stroke: 1px black;
+}
+table{
+	border-collapse: collapse;
+}
+h2{
+	font-family: Monospace, Andele Mono;
+	color: white;
+    -webkit-text-stroke: 1px black;
+	font-size: 35px;
+	
+}
